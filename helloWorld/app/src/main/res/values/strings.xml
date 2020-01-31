@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="roll_label">Roll</string>
+    <string name="mainText">Hello World!</string>
+</resources>
